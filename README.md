@@ -169,6 +169,6 @@ cd your-project
 # Using npm
 npm install
 
-# Using Yarn
+# Using npm
 npm run dev
 ```
