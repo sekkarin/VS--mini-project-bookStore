@@ -67,3 +67,5 @@ app.UseCors(MyAllowSpecificOrigins);
 app.MapControllers();
 
 app.Run();
+// dotnet run --launch-profile https
+// dotnet watch --no-hot-reload

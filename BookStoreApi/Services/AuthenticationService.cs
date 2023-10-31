@@ -9,7 +9,6 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.Net.Http.Headers;
 using Microsoft.AspNetCore.Mvc;
-// dotnet watch --no-hot-reload
 namespace BookStoreApi.Services;
 
 public class AuthenticationService
