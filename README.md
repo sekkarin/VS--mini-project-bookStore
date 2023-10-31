@@ -56,9 +56,6 @@
 
 ![404.](./image/404.png)
 
-### 404 Page
-
-![404.](./image/404.png)
 
 # Setup server By .net webapi
 
